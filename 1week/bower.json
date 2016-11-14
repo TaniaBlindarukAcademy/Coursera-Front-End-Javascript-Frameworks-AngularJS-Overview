@@ -1,0 +1,23 @@
+{
+  "name": "1week",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tania Blindaruk <t.blindaruk@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/TBlindaruk/courses",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.6.1",
+    "angular": "~1.5.5"
+  }
+}
